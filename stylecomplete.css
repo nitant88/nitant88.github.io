@@ -23,7 +23,8 @@ Large: 1.8
 2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
 */
 /* general style */
-@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600;700&display=swap");
+@
+import url("https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600;700&display=swap");
 
 * {
   margin: 0;
